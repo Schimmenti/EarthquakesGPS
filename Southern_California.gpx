@@ -1,0 +1,3027 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <gpx
+      version="1.0"
+      creator="USGS, Menlo Park - https://earthquake.usgs.gov/monitoring/gps"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.topografix.com/GPX/1/0"
+      xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+  <time>2022-02-15T15:01:38Z</time>
+  <bounds minlat="28.884060" minlon="-120.682070" maxlat="36.154190" maxlon="-112.801700"/>
+  <wpt lat="32.87576" lon="-115.39791">
+        <ele>-55.70</ele>
+        <name>501P</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station 501P</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.87056" lon="-120.23986">
+        <ele>290.63</ele>
+        <name>515P</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station 515P</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.11641" lon="-117.09320">
+        <ele>762.07</ele>
+        <name>7ODM</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station 7ODM</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.27427" lon="-117.44489">
+        <ele>-12.31</ele>
+        <name>ACSB</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station ACSB</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.27427" lon="-117.44489">
+        <ele>-12.31</ele>
+        <name>ACSX</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station ACSX</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.59428" lon="-116.42938">
+        <ele>1337.83</ele>
+        <name>AGMT</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station AGMT</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.82449" lon="-118.69480">
+        <ele>918.19</ele>
+        <name>ALPP</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station ALPP</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.01501" lon="-119.36347">
+        <ele>22.43</ele>
+        <name>ANA1</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station ANA1</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.15744" lon="-118.83032">
+        <ele>246.55</ele>
+        <name>AOA1</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station AOA1</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.34185" lon="-117.32493">
+        <ele>32.30</ele>
+        <name>AR27</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station AR27</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.38114" lon="-117.47651">
+        <ele>111.04</ele>
+        <name>AR53</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station AR53</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="35.20125" lon="-118.91043">
+        <ele>76.42</ele>
+        <name>ARM1</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station ARM1</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="35.20126" lon="-118.91056">
+        <ele>76.36</ele>
+        <name>ARM2</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station ARM2</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.46830" lon="-117.15397">
+        <ele>888.90</ele>
+        <name>AVRY</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station AVRY</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="35.10749" lon="-114.60499">
+        <ele>151.63</ele>
+        <name>AZBH</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station AZBH</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.85224" lon="-114.59510">
+        <ele>119.82</ele>
+        <name>AZFM</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station AZFM</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="35.25437" lon="-114.25427">
+        <ele>867.56</ele>
+        <name>AZGV</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station AZGV</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.54008" lon="-116.62970">
+        <ele>1265.69</ele>
+        <name>AZRY</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station AZRY</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.12602" lon="-117.89649">
+        <ele>144.74</ele>
+        <name>AZU1</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station AZU1</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.87928" lon="-114.14699">
+        <ele>541.01</ele>
+        <name>AZYC</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station AZYC</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="32.65835" lon="-114.52711">
+        <ele>36.89</ele>
+        <name>AZYU</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station AZYU</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.48046" lon="-119.02974">
+        <ele>14.79</ele>
+        <name>BAR1</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station BAR1</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.58220" lon="-119.98152">
+        <ele>204.88</ele>
+        <name>BBDM</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station BBDM</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.26428" lon="-116.88424">
+        <ele>2051.07</ele>
+        <name>BBRY</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station BBRY</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.92046" lon="-119.40585">
+        <ele>1332.91</ele>
+        <name>BCWR</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station BCWR</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.00053" lon="-115.99819">
+        <ele>1373.63</ele>
+        <name>BEMT</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station BEMT</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.96712" lon="-118.15970">
+        <ele>2.76</ele>
+        <name>BGIS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station BGIS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.57825" lon="-117.06460">
+        <ele>470.04</ele>
+        <name>BILS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station BILS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.96226" lon="-118.09470">
+        <ele>10.98</ele>
+        <name>BKMS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station BKMS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.79955" lon="-118.02868">
+        <ele>-23.15</ele>
+        <name>BLSA</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station BLSA</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.61041" lon="-114.71485">
+        <ele>85.91</ele>
+        <name>BLYT</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station BLYT</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.25145" lon="-116.05298">
+        <ele>722.64</ele>
+        <name>BMHL</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station BMHL</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.96268" lon="-116.98470">
+        <ele>787.24</ele>
+        <name>BMRY</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station BMRY</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.36463" lon="-115.72971">
+        <ele>-84.23</ele>
+        <name>BOMG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station BOMG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.18490" lon="-118.27705">
+        <ele>246.23</ele>
+        <name>BRAN</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station BRAN</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.68229" lon="-118.57681">
+        <ele>1729.13</ele>
+        <name>BRPK</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station BRPK</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.91861" lon="-117.01199">
+        <ele>613.48</ele>
+        <name>BSRY</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station BSRY</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.29281" lon="-118.18823">
+        <ele>678.25</ele>
+        <name>BTDM</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station BTDM</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.61285" lon="-120.19641">
+        <ele>74.76</ele>
+        <name>BUEG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station BUEG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.65514" lon="-115.98995">
+        <ele>518.45</ele>
+        <name>CACT</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station CACT</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.45535" lon="-117.40399">
+        <ele>776.49</ele>
+        <name>CASE</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station CASE</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.44577" lon="-118.48301">
+        <ele>3.90</ele>
+        <name>CAT1</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station CAT1</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.31162" lon="-118.33382">
+        <ele>477.23</ele>
+        <name>CAT2</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station CAT2</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.44577" lon="-118.48301">
+        <ele>5.13</ele>
+        <name>CAT3</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station CAT3</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.13856" lon="-118.62981">
+        <ele>284.62</ele>
+        <name>CBHS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station CBHS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.87626" lon="-118.21120">
+        <ele>-16.95</ele>
+        <name>CCCO</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station CCCO</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.86275" lon="-117.86495">
+        <ele>31.84</ele>
+        <name>CCCS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station CCCS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.80636" lon="-119.01347">
+        <ele>1578.07</ele>
+        <name>CCST</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station CCST</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.82947" lon="-116.33593">
+        <ele>936.58</ele>
+        <name>CDMT</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station CDMT</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.24400" lon="-117.96495">
+        <ele>704.70</ele>
+        <name>CGDM</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station CGDM</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.33343" lon="-118.02600">
+        <ele>1567.51</ele>
+        <name>CHIL</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station CHIL</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.64046" lon="-117.82770">
+        <ele>760.32</ele>
+        <name>CHMS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station CHMS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="31.87068" lon="-116.66576">
+        <ele>64.33</ele>
+        <name>CIC1</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station CIC1</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="31.87126" lon="-116.66738">
+        <ele>87.64</ele>
+        <name>CICE</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station CICE</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.10956" lon="-118.93730">
+        <ele>488.20</ele>
+        <name>CIRX</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station CIRX</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.13671" lon="-118.12729">
+        <ele>215.35</ele>
+        <name>CIT1</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station CIT1</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.27120" lon="-117.42446">
+        <ele>1584.39</ele>
+        <name>CJMG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station CJMG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.31380" lon="-117.47939">
+        <ele>933.37</ele>
+        <name>CJMS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station CJMS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.53032" lon="-118.14423">
+        <ele>1304.86</ele>
+        <name>CJVG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station CJVG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.10993" lon="-117.70881">
+        <ele>373.60</ele>
+        <name>CLAR</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station CLAR</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.13539" lon="-117.31098">
+        <ele>20.59</ele>
+        <name>CLBD</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station CLBD</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.35318" lon="-118.41143">
+        <ele>1138.01</ele>
+        <name>CMP9</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station CMP9</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.85764" lon="-117.60892">
+        <ele>300.29</ele>
+        <name>CNPP</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station CNPP</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="32.86346" lon="-115.12335">
+        <ele>3.62</ele>
+        <name>COAG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station COAG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="32.85051" lon="-115.72850">
+        <ele>-46.90</ele>
+        <name>COKG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station COKG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.41491" lon="-119.87953">
+        <ele>-22.85</ele>
+        <name>COPR</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station COPR</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="32.41538" lon="-117.24819">
+        <ele>74.24</ele>
+        <name>CORX</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station CORX</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="35.98234" lon="-117.80889">
+        <ele>1455.18</ele>
+        <name>COSO</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station COSO</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.73249" lon="-116.38689">
+        <ele>27.65</ele>
+        <name>COTD</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station COTD</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.03905" lon="-117.09969">
+        <ele>688.81</ele>
+        <name>CRFP</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station CRFP</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="35.24209" lon="-119.72482">
+        <ele>1173.07</ele>
+        <name>CRGG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station CRGG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.82350" lon="-118.27277">
+        <ele>-23.54</ele>
+        <name>CRHS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station CRHS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.06981" lon="-115.73504">
+        <ele>-81.90</ele>
+        <name>CRRS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station CRRS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.02926" lon="-119.78482">
+        <ele>702.18</ele>
+        <name>CRU1</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station CRU1</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.16841" lon="-119.03899">
+        <ele>70.85</ele>
+        <name>CSCI</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station CSCI</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.86148" lon="-118.25672">
+        <ele>-9.15</ele>
+        <name>CSDH</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station CSDH</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.25355" lon="-118.52382">
+        <ele>261.42</ele>
+        <name>CSN1</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station CSN1</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.40809" lon="-119.37125">
+        <ele>162.48</ele>
+        <name>CSST</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station CSST</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.51655" lon="-118.61321">
+        <ele>406.08</ele>
+        <name>CTDM</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station CTDM</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.12410" lon="-116.37043">
+        <ele>966.49</ele>
+        <name>CTMS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station CTMS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.94265" lon="-119.67395">
+        <ele>634.95</ele>
+        <name>CUHS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station CUHS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.08201" lon="-117.90172">
+        <ele>119.07</ele>
+        <name>CVHS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station CVHS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="32.22450" lon="-115.41921">
+        <ele>399.30</ele>
+        <name>DAEX</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station DAEX</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.33484" lon="-118.39687">
+        <ele>583.41</ele>
+        <name>DAM2</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station DAM2</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.33399" lon="-118.39747">
+        <ele>580.02</ele>
+        <name>DAM3</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station DAM3</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.38981" lon="-115.78803">
+        <ele>-83.04</ele>
+        <name>DHLG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station DHLG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.43059" lon="-117.30722">
+        <ele>212.72</ele>
+        <name>DLUZ</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station DLUZ</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.02393" lon="-118.34854">
+        <ele>-2.13</ele>
+        <name>DSHS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station DSHS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.73333" lon="-116.71209">
+        <ele>1660.87</ele>
+        <name>DSSC</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station DSSC</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="35.26747" lon="-117.84588">
+        <ele>910.25</ele>
+        <name>DTPG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station DTPG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.70059" lon="-117.00069">
+        <ele>532.52</ele>
+        <name>DVLE</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station DVLE</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.41341" lon="-117.86013">
+        <ele>1430.85</ele>
+        <name>DVPB</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station DVPB</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.93832" lon="-118.12746">
+        <ele>10.80</ele>
+        <name>DYH2</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station DYH2</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.93799" lon="-118.12598">
+        <ele>1.46</ele>
+        <name>DYHS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station DYHS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.88675" lon="-118.32903">
+        <ele>-19.35</ele>
+        <name>ECCO</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station ECCO</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.64769" lon="-117.41170">
+        <ele>801.40</ele>
+        <name>ECFS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station ECFS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.94620" lon="-118.83041">
+        <ele>379.84</ele>
+        <name>EDPP</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station EDPP</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.58350" lon="-118.12879">
+        <ele>-2.89</ele>
+        <name>ELLY</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station ELLY</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.02974" lon="-118.20844">
+        <ele>61.15</ele>
+        <name>ELSC</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station ELSC</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.64914" lon="-117.42602">
+        <ele>811.33</ele>
+        <name>ELSG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station ELSG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.70312" lon="-118.42573">
+        <ele>916.50</ele>
+        <name>ELTN</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station ELTN</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.59929" lon="-118.45376">
+        <ele>887.10</ele>
+        <name>ELTS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station ELTS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.45085" lon="-119.76978">
+        <ele>42.44</ele>
+        <name>EOCG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station EOCG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.11645" lon="-115.82273">
+        <ele>-92.40</ele>
+        <name>ERRG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station ERRG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.67480" lon="-116.99386">
+        <ele>512.80</ele>
+        <name>ESE2</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station ESE2</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.68178" lon="-117.06695">
+        <ele>548.61</ele>
+        <name>ESRW</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station ESRW</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.10420" lon="-117.52559">
+        <ele>330.47</ele>
+        <name>EWPP</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station EWPP</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.06659" lon="-118.44213">
+        <ele>150.41</ele>
+        <name>FCTF</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station FCTF</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.73301" lon="-120.00939">
+        <ele>904.09</ele>
+        <name>FGST</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station FGST</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.09355" lon="-116.93587">
+        <ele>1588.67</ele>
+        <name>FHOG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station FHOG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.40987" lon="-118.89415">
+        <ele>362.77</ele>
+        <name>FMTP</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station FMTP</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.35634" lon="-118.88404">
+        <ele>616.99</ele>
+        <name>FMVT</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station FMVT</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.73391" lon="-118.24050">
+        <ele>688.87</ele>
+        <name>FOXG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station FOXG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="32.94499" lon="-115.79994">
+        <ele>135.00</ele>
+        <name>FSHB</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station FSHB</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.66233" lon="-117.93572">
+        <ele>-11.55</ele>
+        <name>FVPK</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station FVPK</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.08061" lon="-118.35948">
+        <ele>33.30</ele>
+        <name>FXHS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station FXHS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.80020" lon="-118.89338">
+        <ele>1273.73</ele>
+        <name>FZHS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station FZHS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="35.18942" lon="-119.86368">
+        <ele>566.25</ele>
+        <name>GDEC</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station GDEC</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.20389" lon="-117.39790">
+        <ele>628.59</ele>
+        <name>GHRP</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station GHRP</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.06930" lon="-117.21828">
+        <ele>343.43</ele>
+        <name>GISA</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station GISA</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.27481" lon="-115.52137">
+        <ele>-48.65</ele>
+        <name>GLRS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station GLRS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.29144" lon="-116.38257">
+        <ele>866.74</ele>
+        <name>GMAG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station GMAG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.05109" lon="-114.82735">
+        <ele>591.17</ele>
+        <name>GMPK</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station GMPK</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.78400" lon="-115.66023">
+        <ele>1298.19</ele>
+        <name>GMRC</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station GMRC</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.30856" lon="-114.18945">
+        <ele>232.38</ele>
+        <name>GNPS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station GNPS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="28.88406" lon="-118.28969">
+        <ele>40.47</ele>
+        <name>GUAX</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station GUAX</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.04745" lon="-118.11290">
+        <ele>154.49</ele>
+        <name>GVRS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station GVRS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="35.01154" lon="-117.29921">
+        <ele>590.35</ele>
+        <name>HAR7</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station HAR7</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.46940" lon="-120.68207">
+        <ele>14.89</ele>
+        <name>HARV</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station HARV</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.78365" lon="-118.28580">
+        <ele>-26.88</ele>
+        <name>HBCO</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station HBCO</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.75477" lon="-116.43008">
+        <ele>568.74</ele>
+        <name>HCMN</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station HCMN</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.75992" lon="-117.79946">
+        <ele>930.87</ele>
+        <name>HIVI</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station HIVI</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.70810" lon="-117.00150">
+        <ele>577.02</ele>
+        <name>HMTG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station HMTG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.70501" lon="-115.63534">
+        <ele>393.93</ele>
+        <name>HNPS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station HNPS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.45816" lon="-117.84513">
+        <ele>1239.42</ele>
+        <name>HOL3</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station HOL3</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.45819" lon="-117.84516">
+        <ele>1238.15</ele>
+        <name>HOLC</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station HOLC</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.92454" lon="-118.16818">
+        <ele>-6.68</ele>
+        <name>HOLP</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station HOLP</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.98900" lon="-118.21701">
+        <ele>18.36</ele>
+        <name>HPHS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station HPHS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.44123" lon="-119.18755">
+        <ele>373.94</ele>
+        <name>HVYS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station HVYS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.72732" lon="-115.91145">
+        <ele>765.31</ele>
+        <name>I40A</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station I40A</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.79680" lon="-116.22152">
+        <ele>434.94</ele>
+        <name>IDOG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station IDOG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.76797" lon="-116.23899">
+        <ele>-1.32</ele>
+        <name>IDQG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station IDQG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="32.70617" lon="-115.03180">
+        <ele>9.74</ele>
+        <name>IID2</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station IID2</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.15756" lon="-115.14510">
+        <ele>563.23</ele>
+        <name>IMPS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station IMPS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="32.82938" lon="-115.50679">
+        <ele>-53.44</ele>
+        <name>IVCO</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station IVCO</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.44907" lon="-117.95544">
+        <ele>1276.15</ele>
+        <name>JNHG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station JNHG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.20482" lon="-118.17323">
+        <ele>423.98</ele>
+        <name>JPLM</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station JPLM</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.39853" lon="-119.00820">
+        <ele>370.48</ele>
+        <name>KBRC</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station KBRC</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="35.23105" lon="-114.00235">
+        <ele>1015.64</ele>
+        <name>KGMN</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station KGMN</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.92537" lon="-116.17340">
+        <ele>1498.21</ele>
+        <name>KYVW</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station KYVW</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.18193" lon="-118.57465">
+        <ele>207.81</ele>
+        <name>LAPC</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station LAPC</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.92794" lon="-118.30651">
+        <ele>24.67</ele>
+        <name>LASC</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station LASC</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.83207" lon="-118.13719">
+        <ele>-21.98</ele>
+        <name>LBC1</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station LBC1</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.79161" lon="-118.17325">
+        <ele>-28.44</ele>
+        <name>LBC2</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station LBC2</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.78777" lon="-118.20335">
+        <ele>-27.49</ele>
+        <name>LBCH</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station LBCH</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.26734" lon="-116.43280">
+        <ele>978.08</ele>
+        <name>LDES</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station LDES</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.69943" lon="-116.20914">
+        <ele>640.95</ele>
+        <name>LDSW</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station LDSW</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.13460" lon="-118.32176">
+        <ele>485.05</ele>
+        <name>LEEP</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station LEEP</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.09507" lon="-118.41283">
+        <ele>146.90</ele>
+        <name>LFRS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station LFRS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.64060" lon="-117.76445">
+        <ele>88.69</ele>
+        <name>LGWD</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station LGWD</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.66202" lon="-118.13920">
+        <ele>721.23</ele>
+        <name>LINJ</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station LINJ</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.80753" lon="-118.86774">
+        <ele>1422.46</ele>
+        <name>LJRN</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station LJRN</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.23601" lon="-116.75877">
+        <ele>823.29</ele>
+        <name>LKHG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station LKHG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.48546" lon="-117.83496">
+        <ele>1005.32</ele>
+        <name>LL01</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station LL01</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.58598" lon="-117.83793">
+        <ele>812.48</ele>
+        <name>LLAS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station LLAS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.74420" lon="-117.39129">
+        <ele>464.52</ele>
+        <name>LMHG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station LMHG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.81740" lon="-117.44507">
+        <ele>413.10</ele>
+        <name>LMSG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station LMSG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.69092" lon="-120.44658">
+        <ele>63.54</ele>
+        <name>LOMP</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station LOMP</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.11190" lon="-118.00341">
+        <ele>74.25</ele>
+        <name>LONG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station LONG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.13333" lon="-117.75407">
+        <ele>448.89</ele>
+        <name>LORS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station LORS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.31487" lon="-117.54637">
+        <ele>1315.28</ele>
+        <name>LPCG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station LPCG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.02677" lon="-117.95672">
+        <ele>68.48</ele>
+        <name>LPHS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station LPHS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.52706" lon="-118.02999">
+        <ele>875.01</ele>
+        <name>LRRG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station LRRG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.73361" lon="-119.10369">
+        <ele>1543.08</ele>
+        <name>LVMS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station LVMS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.85676" lon="-117.43670">
+        <ele>398.30</ele>
+        <name>MAT2</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station MAT2</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="32.63299" lon="-115.47570">
+        <ele>-22.47</ele>
+        <name>MEXI</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station MEXI</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.93906" lon="-118.24414">
+        <ele>-2.51</ele>
+        <name>MHMS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station MHMS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.03826" lon="-120.35140">
+        <ele>130.92</ele>
+        <name>MIG1</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station MIG1</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.13683" lon="-118.12626">
+        <ele>243.33</ele>
+        <name>MILK</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station MILK</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.71448" lon="-117.55047">
+        <ele>1527.97</ele>
+        <name>MJPK</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station MJPK</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.91841" lon="-117.31796">
+        <ele>472.96</ele>
+        <name>MLFP</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station MLFP</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="32.89194" lon="-116.42235">
+        <ele>1842.55</ele>
+        <name>MONP</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station MONP</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.29551" lon="-118.87802">
+        <ele>190.24</ele>
+        <name>MPWD</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station MPWD</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.17523" lon="-117.88169">
+        <ele>328.05</ele>
+        <name>MRDM</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station MRDM</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.03850" lon="-116.64796">
+        <ele>913.08</ele>
+        <name>MSCG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station MSCG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.23085" lon="-117.21013">
+        <ele>1733.14</ele>
+        <name>MSOB</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station MSOB</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.05522" lon="-118.24551">
+        <ele>72.73</ele>
+        <name>MTA1</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station MTA1</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.19917" lon="-116.64723">
+        <ele>1066.71</ele>
+        <name>MTGG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station MTGG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.21088" lon="-116.52532">
+        <ele>1190.08</ele>
+        <name>MVFD</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station MVFD</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="32.32428" lon="-115.29551">
+        <ele>-23.85</ele>
+        <name>NAYX</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station NAYX</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.50862" lon="-116.14817">
+        <ele>1098.80</ele>
+        <name>NBPS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station NBPS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.76769" lon="-114.61863">
+        <ele>241.37</ele>
+        <name>NDAP</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station NDAP</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.49866" lon="-119.14126">
+        <ele>1648.74</ele>
+        <name>NHRG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station NHRG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.91971" lon="-117.56958">
+        <ele>186.80</ele>
+        <name>NOCO</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station NOCO</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.97974" lon="-118.34802">
+        <ele>33.12</ele>
+        <name>NOPK</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station NOPK</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="32.57932" lon="-116.97269">
+        <ele>123.57</ele>
+        <name>NSSS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station NSSS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="35.17063" lon="-114.57979">
+        <ele>162.11</ele>
+        <name>NVLA</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station NVLA</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.14101" lon="-116.06774">
+        <ele>604.77</ele>
+        <name>OAES</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station OAES</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.32989" lon="-118.60138">
+        <ele>1112.59</ele>
+        <name>OAT2</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station OAT2</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.24067" lon="-117.34674">
+        <ele>42.89</ele>
+        <name>OCSD</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station OCSD</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.76586" lon="-117.74414">
+        <ele>358.60</ele>
+        <name>OEOC</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station OEOC</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.13061" lon="-117.04177">
+        <ele>185.25</ele>
+        <name>OGHS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station OGHS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.36988" lon="-115.91806">
+        <ele>1226.53</ele>
+        <name>OPBL</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station OPBL</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.42772" lon="-116.30546">
+        <ele>1312.91</ele>
+        <name>OPCL</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station OPCL</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.36713" lon="-116.08337">
+        <ele>1096.66</ele>
+        <name>OPCP</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station OPCP</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.43008" lon="-116.14948">
+        <ele>1133.83</ele>
+        <name>OPCX</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station OPCX</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.53303" lon="-116.29228">
+        <ele>1400.25</ele>
+        <name>OPRD</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station OPRD</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.73906" lon="-120.27856">
+        <ele>143.63</ele>
+        <name>ORES</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station ORES</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.67491" lon="-116.81509">
+        <ele>1893.33</ele>
+        <name>ORMT</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station ORMT</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.32736" lon="-119.14195">
+        <ele>69.20</ele>
+        <name>OVLS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station OVLS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.12881" lon="-118.20732">
+        <ele>209.82</ele>
+        <name>OXYC</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station OXYC</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.68337" lon="-119.35341">
+        <ele>1059.19</ele>
+        <name>OZST</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station OZST</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="31.94938" lon="-112.80170">
+        <ele>474.70</ele>
+        <name>P001</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P001</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="32.72254" lon="-114.00495">
+        <ele>50.96</ele>
+        <name>P003</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P003</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="36.15419" lon="-114.45691">
+        <ele>365.22</ele>
+        <name>P006</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P006</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.66726" lon="-113.73134">
+        <ele>1399.04</ele>
+        <name>P010</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P010</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="32.61653" lon="-116.16979">
+        <ele>822.86</ele>
+        <name>P066</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P066</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.46241" lon="-117.39389">
+        <ele>991.38</ele>
+        <name>P470</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P470</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.56213" lon="-117.54087">
+        <ele>174.76</ele>
+        <name>P471</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P471</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="32.88921" lon="-117.10470">
+        <ele>137.83</ele>
+        <name>P472</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P472</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="32.73378" lon="-116.94952">
+        <ele>188.54</ele>
+        <name>P473</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P473</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.35520" lon="-117.24870">
+        <ele>182.90</ele>
+        <name>P474</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P474</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="32.66640" lon="-117.24394">
+        <ele>-25.06</ele>
+        <name>P475</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P475</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.43965" lon="-117.18968">
+        <ele>309.73</ele>
+        <name>P476</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P476</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.50280" lon="-117.11338">
+        <ele>334.45</ele>
+        <name>P477</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P477</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.23572" lon="-117.07159">
+        <ele>371.56</ele>
+        <name>P478</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P478</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.49332" lon="-116.78293">
+        <ele>1093.82</ele>
+        <name>P479</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P479</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="32.97600" lon="-116.34854">
+        <ele>436.02</ele>
+        <name>P480</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P480</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="32.82224" lon="-116.01079">
+        <ele>610.89</ele>
+        <name>P481</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P481</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.24018" lon="-116.67142">
+        <ele>878.70</ele>
+        <name>P482</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P482</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.05917" lon="-116.56933">
+        <ele>1375.54</ele>
+        <name>P483</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P483</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.37559" lon="-116.62084">
+        <ele>1382.47</ele>
+        <name>P484</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P484</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.21021" lon="-116.40904">
+        <ele>372.14</ele>
+        <name>P485</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P485</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.26019" lon="-116.32229">
+        <ele>126.25</ele>
+        <name>P486</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P486</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.21353" lon="-116.18308">
+        <ele>90.24</ele>
+        <name>P487</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P487</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.20102" lon="-116.07881">
+        <ele>61.72</ele>
+        <name>P488</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P488</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.29621" lon="-116.11161">
+        <ele>290.30</ele>
+        <name>P489</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P489</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.52346" lon="-116.42591">
+        <ele>2622.42</ele>
+        <name>P490</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P490</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.57468" lon="-116.22683">
+        <ele>4.24</ele>
+        <name>P491</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P491</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="32.88705" lon="-115.96945">
+        <ele>68.84</ele>
+        <name>P492</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P492</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="32.95470" lon="-115.82489">
+        <ele>197.49</ele>
+        <name>P493</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P493</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="32.75966" lon="-115.73207">
+        <ele>-44.28</ele>
+        <name>P494</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P494</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.04496" lon="-115.62839">
+        <ele>-84.05</ele>
+        <name>P495</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P495</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="32.75063" lon="-115.59596">
+        <ele>-40.08</ele>
+        <name>P496</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P496</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="32.83474" lon="-115.57703">
+        <ele>-51.00</ele>
+        <name>P497</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P497</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="32.89843" lon="-115.56957">
+        <ele>-58.04</ele>
+        <name>P498</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P498</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="32.97961" lon="-115.48791">
+        <ele>-74.23</ele>
+        <name>P499</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P499</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="32.69005" lon="-115.29993">
+        <ele>-20.61</ele>
+        <name>P500</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P500</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="32.98245" lon="-115.42191">
+        <ele>-66.08</ele>
+        <name>P502</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P502</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="32.94892" lon="-115.72018">
+        <ele>6.13</ele>
+        <name>P503</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P503</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.51641" lon="-115.76585">
+        <ele>84.01</ele>
+        <name>P504</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P504</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.42387" lon="-115.68700">
+        <ele>-57.80</ele>
+        <name>P505</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P505</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.08143" lon="-115.51020">
+        <ele>-83.44</ele>
+        <name>P506</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P506</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.19998" lon="-115.61241">
+        <ele>-78.58</ele>
+        <name>P507</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P507</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.24778" lon="-115.42871">
+        <ele>10.69</ele>
+        <name>P508</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P508</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="32.89066" lon="-115.29392">
+        <ele>-29.65</ele>
+        <name>P509</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P509</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.14357" lon="-115.34333">
+        <ele>1.52</ele>
+        <name>P510</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P510</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.88694" lon="-115.29610">
+        <ele>273.33</ele>
+        <name>P511</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P511</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.90727" lon="-120.65018">
+        <ele>284.57</ele>
+        <name>P513</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P513</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.37637" lon="-118.17758">
+        <ele>1959.18</ele>
+        <name>P517</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P517</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.50781" lon="-119.79244">
+        <ele>810.91</ele>
+        <name>P519</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P519</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.63049" lon="-119.61641">
+        <ele>1250.83</ele>
+        <name>P520</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P520</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.88857" lon="-119.81536">
+        <ele>1709.08</ele>
+        <name>P521</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P521</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.46681" lon="-119.50395">
+        <ele>1134.84</ele>
+        <name>P548</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P548</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.59960" lon="-119.32634">
+        <ele>1250.28</ele>
+        <name>P549</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P549</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.66009" lon="-119.11462">
+        <ele>1526.13</ele>
+        <name>P550</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P550</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.85620" lon="-119.15457">
+        <ele>1550.30</ele>
+        <name>P551</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P551</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="35.68673" lon="-120.24496">
+        <ele>581.68</ele>
+        <name>P552</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P552</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.83510" lon="-118.87897">
+        <ele>1335.86</ele>
+        <name>P553</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P553</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.79230" lon="-118.84803">
+        <ele>1170.15</ele>
+        <name>P554</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P554</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.69499" lon="-118.66943">
+        <ele>1095.99</ele>
+        <name>P555</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P555</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.77111" lon="-118.54546">
+        <ele>852.61</ele>
+        <name>P556</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P556</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.94439" lon="-118.65559">
+        <ele>1818.22</ele>
+        <name>P557</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P557</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.83891" lon="-118.61760">
+        <ele>927.70</ele>
+        <name>P559</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P559</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.82181" lon="-118.54087">
+        <ele>838.29</ele>
+        <name>P560</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P560</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.61846" lon="-118.39906">
+        <ele>974.42</ele>
+        <name>P561</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P561</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.98213" lon="-118.18875">
+        <ele>1241.06</ele>
+        <name>P562</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P562</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.28677" lon="-117.63389">
+        <ele>2873.77</ele>
+        <name>P574</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P574</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.21551" lon="-117.54216">
+        <ele>1928.40</ele>
+        <name>P575</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P575</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.30461" lon="-117.31892">
+        <ele>999.55</ele>
+        <name>P577</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P577</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="35.69433" lon="-120.23903">
+        <ele>536.29</ele>
+        <name>P578</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P578</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.50974" lon="-117.72900">
+        <ele>972.80</ele>
+        <name>P581</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P581</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.63426" lon="-117.54886">
+        <ele>848.02</ele>
+        <name>P582</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P582</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.98701" lon="-117.54339">
+        <ele>730.75</ele>
+        <name>P583</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P583</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.89260" lon="-116.95164">
+        <ele>738.74</ele>
+        <name>P584</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P584</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.01935" lon="-116.54575">
+        <ele>958.15</ele>
+        <name>P585</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P585</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.53485" lon="-117.28052">
+        <ele>809.39</ele>
+        <name>P586</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P586</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.33224" lon="-118.03134">
+        <ele>1600.77</ele>
+        <name>P587</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P587</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.78544" lon="-117.26760">
+        <ele>709.77</ele>
+        <name>P588</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P588</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.62067" lon="-117.11019">
+        <ele>1148.05</ele>
+        <name>P589</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P589</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.21717" lon="-116.53747">
+        <ele>1323.89</ele>
+        <name>P599</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P599</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.86585" lon="-116.21188">
+        <ele>792.07</ele>
+        <name>P600</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P600</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.95930" lon="-116.08023">
+        <ele>1242.63</ele>
+        <name>P601</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P601</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.71691" lon="-116.02950">
+        <ele>624.70</ele>
+        <name>P603</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P603</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.93683" lon="-116.67145">
+        <ele>588.43</ele>
+        <name>P604</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P604</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.34113" lon="-117.93667">
+        <ele>2419.72</ele>
+        <name>P605</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P605</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.46207" lon="-116.87963">
+        <ele>863.36</ele>
+        <name>P606</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P606</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.74104" lon="-115.82065">
+        <ele>958.71</ele>
+        <name>P607</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P607</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.99408" lon="-115.68660">
+        <ele>632.30</ele>
+        <name>P608</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P608</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.06269" lon="-116.89282">
+        <ele>2721.22</ele>
+        <name>P609</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P609</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.42575" lon="-115.76373">
+        <ele>343.84</ele>
+        <name>P610</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P610</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.18738" lon="-117.31552">
+        <ele>531.71</ele>
+        <name>P612</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P612</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.19619" lon="-117.04996">
+        <ele>2355.16</ele>
+        <name>P613</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P613</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.73179" lon="-115.25026">
+        <ele>490.98</ele>
+        <name>P614</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P614</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.18893" lon="-114.59941">
+        <ele>267.75</ele>
+        <name>P623</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P623</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.84444" lon="-114.96514">
+        <ele>606.77</ele>
+        <name>P625</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P625</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.26308" lon="-119.09606">
+        <ele>36.01</ele>
+        <name>P729</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P729</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.59820" lon="-116.59598">
+        <ele>1372.08</ele>
+        <name>P740</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P740</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.55747" lon="-116.53102">
+        <ele>1371.27</ele>
+        <name>P741</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P741</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.49554" lon="-116.60258">
+        <ele>1142.65</ele>
+        <name>P742</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P742</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="32.82938" lon="-115.50841">
+        <ele>-52.74</ele>
+        <name>P744</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P744</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.50812" lon="-116.14813">
+        <ele>1095.31</ele>
+        <name>P795</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P795</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="32.49787" lon="-114.75935">
+        <ele>10.16</ele>
+        <name>P796</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P796</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.53729" lon="-116.59253">
+        <ele>1403.78</ele>
+        <name>P797</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P797</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.92765" lon="-118.30635">
+        <ele>24.84</ele>
+        <name>P799</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P799</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.02169" lon="-118.34907">
+        <ele>-2.30</ele>
+        <name>P800</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station P800</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.38902" lon="-117.03178">
+        <ele>528.80</ele>
+        <name>PALG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station PALG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="31.55912" lon="-116.06379">
+        <ele>1545.47</ele>
+        <name>PALX</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station PALX</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="32.64794" lon="-115.69244">
+        <ele>1.15</ele>
+        <name>PB1Y</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station PB1Y</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.50823" lon="-117.92257">
+        <ele>901.95</ele>
+        <name>PBPP</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station PBPP</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.92542" lon="-117.69448">
+        <ele>886.15</ele>
+        <name>PHLB</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station PHLB</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.61216" lon="-116.45816">
+        <ele>1256.17</ele>
+        <name>PIN1</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station PIN1</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.61215" lon="-116.45762">
+        <ele>1258.39</ele>
+        <name>PIN2</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station PIN2</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="32.41701" lon="-115.88373">
+        <ele>1335.73</ele>
+        <name>PJZX</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station PJZX</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.07156" lon="-118.23291">
+        <ele>130.84</ele>
+        <name>PKRD</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station PKRD</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="31.25522" lon="-116.15808">
+        <ele>182.98</ele>
+        <name>PLCX</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station PLCX</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="31.58860" lon="-115.15128">
+        <ele>813.49</ele>
+        <name>PLPX</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station PLPX</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="31.81634" lon="-115.43090">
+        <ele>236.51</ele>
+        <name>PLTX</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station PLTX</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.90263" lon="-118.15369">
+        <ele>-11.17</ele>
+        <name>PMHS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station PMHS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.35724" lon="-116.85955">
+        <ele>1662.51</ele>
+        <name>PMOB</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station PMOB</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.68713" lon="-116.92375">
+        <ele>982.23</ele>
+        <name>POBG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station POBG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="32.61841" lon="-116.59087">
+        <ele>730.25</ele>
+        <name>POTR</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station POTR</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.83573" lon="-117.18209">
+        <ele>428.10</ele>
+        <name>PPBF</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station PPBF</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.81924" lon="-116.49399">
+        <ele>86.76</ele>
+        <name>PSAP</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station PSAP</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.09177" lon="-117.80710">
+        <ele>278.37</ele>
+        <name>PSDM</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station PSDM</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.74330" lon="-118.40426">
+        <ele>71.05</ele>
+        <name>PVE3</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station PVE3</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.77946" lon="-118.37217">
+        <ele>259.58</ele>
+        <name>PVHS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station PVHS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.77387" lon="-118.32059">
+        <ele>59.82</ele>
+        <name>PVRS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station PVRS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.62868" lon="-118.24482">
+        <ele>863.04</ele>
+        <name>QHTP</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station QHTP</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="32.54921" lon="-115.15323">
+        <ele>-16.27</ele>
+        <name>QUEX</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station QUEX</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.04224" lon="-116.91725">
+        <ele>395.01</ele>
+        <name>RAAP</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station RAAP</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.68314" lon="-116.15146">
+        <ele>729.92</ele>
+        <name>RAGG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station RAGG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.49998" lon="-119.72000">
+        <ele>1179.22</ele>
+        <name>RCA2</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station RCA2</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.44415" lon="-117.58648">
+        <ele>160.97</ele>
+        <name>RCSC</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station RCSC</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.64394" lon="-116.62469">
+        <ele>1783.01</ele>
+        <name>RDMT</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station RDMT</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.00091" lon="-118.01335">
+        <ele>338.68</ele>
+        <name>RHCG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station RHCG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.01905" lon="-118.02617">
+        <ele>176.87</ele>
+        <name>RHCL</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station RHCL</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.67413" lon="-117.60943">
+        <ele>377.59</ele>
+        <name>RKMG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station RKMG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.48581" lon="-117.55532">
+        <ele>136.38</ele>
+        <name>RMVJ</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station RMVJ</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.61102" lon="-116.60977">
+        <ele>1393.73</ele>
+        <name>ROCH</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station ROCH</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.23568" lon="-118.67644">
+        <ele>553.49</ele>
+        <name>ROCK</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station ROCK</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.87508" lon="-118.19293">
+        <ele>712.72</ele>
+        <name>RSTP</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station RSTP</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.54148" lon="-119.18444">
+        <ele>987.41</ele>
+        <name>RSVY</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station RSVY</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.08915" lon="-117.35334">
+        <ele>328.66</ele>
+        <name>RTHS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station RTHS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="32.97231" lon="-114.97803">
+        <ele>119.67</ele>
+        <name>RUNG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station RUNG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.74325" lon="-117.89558">
+        <ele>-11.28</ele>
+        <name>SACY</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station SACY</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.55300" lon="-117.66149">
+        <ele>88.67</ele>
+        <name>SBCC</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station SBCC</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.60745" lon="-117.38830">
+        <ele>831.45</ele>
+        <name>SCIA</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station SCIA</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="32.91443" lon="-118.48794">
+        <ele>452.85</ele>
+        <name>SCIP</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station SCIP</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.25501" lon="-116.27890">
+        <ele>835.07</ele>
+        <name>SDHL</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station SDHL</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.45981" lon="-118.75451">
+        <ele>291.52</ele>
+        <name>SFDM</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station SFDM</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.20563" lon="-117.86170">
+        <ele>420.76</ele>
+        <name>SGDM</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station SGDM</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.08863" lon="-118.10898">
+        <ele>79.85</ele>
+        <name>SGHS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station SGHS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="32.64927" lon="-115.72638">
+        <ele>78.34</ele>
+        <name>SGLG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station SGLG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.91254" lon="-116.69569">
+        <ele>476.73</ele>
+        <name>SGPS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station SGPS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.62426" lon="-116.01558">
+        <ele>362.49</ele>
+        <name>SIBE</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station SIBE</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.10287" lon="-118.26387">
+        <ele>106.22</ele>
+        <name>SILK</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station SILK</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="32.86470" lon="-117.25041">
+        <ele>34.76</ele>
+        <name>SIO3</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station SIO3</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="32.84074" lon="-117.24969">
+        <ele>185.51</ele>
+        <name>SIO5</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station SIO5</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.43863" lon="-118.47863">
+        <ele>520.23</ele>
+        <name>SKYB</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station SKYB</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.19262" lon="-116.25406">
+        <ele>177.64</ele>
+        <name>SLHG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station SLHG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.29223" lon="-115.97784">
+        <ele>-45.93</ele>
+        <name>SLMS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station SLMS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.92734" lon="-117.92863">
+        <ele>66.43</ele>
+        <name>SNHS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station SNHS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.24788" lon="-119.52437">
+        <ele>239.66</ele>
+        <name>SNI1</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station SNI1</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.03521" lon="-116.80779">
+        <ele>2314.68</ele>
+        <name>SNOG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station SNOG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.31994" lon="-119.06434">
+        <ele>464.23</ele>
+        <name>SOMT</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station SOMT</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.38075" lon="-117.56026">
+        <ele>-2.94</ele>
+        <name>SONG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station SONG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.05935" lon="-118.64617">
+        <ele>440.13</ele>
+        <name>SPK1</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station SPK1</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.99266" lon="-117.84878">
+        <ele>207.03</ele>
+        <name>SPMS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station SPMS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="31.04505" lon="-115.46586">
+        <ele>2763.65</ele>
+        <name>SPMX</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station SPMX</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.00434" lon="-120.06523">
+        <ele>68.21</ele>
+        <name>SRS1</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station SRS1</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.60723" lon="-120.06956">
+        <ele>167.95</ele>
+        <name>SYNG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station SYNG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.38185" lon="-117.67829">
+        <ele>2228.03</ele>
+        <name>TABL</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station TABL</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.54955" lon="-117.76682">
+        <ele>188.31</ele>
+        <name>THM2</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station THM2</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.65064" lon="-116.07725">
+        <ele>33.62</ele>
+        <name>THMG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station THMG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.54964" lon="-117.76680">
+        <ele>189.22</ele>
+        <name>THMS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station THMS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.48348" lon="-120.13257">
+        <ele>157.17</ele>
+        <name>TJRN</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station TJRN</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.64125" lon="-116.16046">
+        <ele>-66.91</ele>
+        <name>TMAP</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station TMAP</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="31.33552" lon="-113.63164">
+        <ele>27.64</ele>
+        <name>TNPP</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station TNPP</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.79780" lon="-118.33061">
+        <ele>-5.11</ele>
+        <name>TORP</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station TORP</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.24796" lon="-118.83667">
+        <ele>274.35</ele>
+        <name>TOST</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station TOST</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="35.80857" lon="-117.76490">
+        <ele>657.14</ele>
+        <name>TOWG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station TOWG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.87886" lon="-118.22858">
+        <ele>772.24</ele>
+        <name>TPOG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station TPOG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.61794" lon="-117.80344">
+        <ele>115.52</ele>
+        <name>TRAK</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station TRAK</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.83860" lon="-116.53055">
+        <ele>613.56</ele>
+        <name>TROY</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station TROY</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="30.93393" lon="-114.81064">
+        <ele>-7.10</ele>
+        <name>TSFX</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station TSFX</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.97245" lon="-117.72552">
+        <ele>208.07</ele>
+        <name>TWMS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station TWMS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.06912" lon="-118.44191">
+        <ele>111.54</ele>
+        <name>UCLP</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station UCLP</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.41331" lon="-119.84382">
+        <ele>-9.60</ele>
+        <name>UCSB</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station UCSB</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.02395" lon="-118.28512">
+        <ele>21.90</ele>
+        <name>USC1</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station USC1</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.01952" lon="-118.27733">
+        <ele>55.93</ele>
+        <name>USC2</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station USC2</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.03007" lon="-116.08534">
+        <ele>133.43</ele>
+        <name>USGC</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station USGC</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.85151" lon="-119.48386">
+        <ele>809.57</ele>
+        <name>VCST</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station VCST</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.17857" lon="-118.22000">
+        <ele>318.16</ele>
+        <name>VDCY</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station VDCY</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.12645" lon="-118.51442">
+        <ele>553.70</ele>
+        <name>VIMT</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station VIMT</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.27577" lon="-119.23767">
+        <ele>25.62</ele>
+        <name>VNCO</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station VNCO</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.29320" lon="-118.48454">
+        <ele>328.59</ele>
+        <name>VNCX</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station VNCX</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.55632" lon="-120.61646">
+        <ele>-11.52</ele>
+        <name>VNDP</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station VNDP</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.50148" lon="-118.12116">
+        <ele>961.90</ele>
+        <name>VNPS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station VNPS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.71264" lon="-118.29383">
+        <ele>59.49</ele>
+        <name>VTIS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station VTIS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.22502" lon="-117.19319">
+        <ele>379.91</ele>
+        <name>VTOR</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station VTOR</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.03092" lon="-117.99205">
+        <ele>56.44</ele>
+        <name>VYAS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station VYAS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="35.73839" lon="-118.55698">
+        <ele>1834.92</ele>
+        <name>WASG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station WASG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.06190" lon="-117.91111">
+        <ele>100.07</ele>
+        <name>WCHS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station WCHS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.97989" lon="-118.03117">
+        <ele>94.22</ele>
+        <name>WHC1</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station WHC1</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="35.69505" lon="-118.35196">
+        <ele>861.89</ele>
+        <name>WHFG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station WHFG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.67449" lon="-117.64346">
+        <ele>265.40</ele>
+        <name>WHYT</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station WHYT</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.93476" lon="-116.39178">
+        <ele>445.05</ele>
+        <name>WIDC</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station WIDC</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.56850" lon="-118.74152">
+        <ele>1208.91</ele>
+        <name>WKPK</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station WKPK</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="36.15211" lon="-118.31311">
+        <ele>2646.25</ele>
+        <name>WLHG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station WLHG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.22612" lon="-118.05592">
+        <ele>1705.26</ele>
+        <name>WLSN</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station WLSN</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.25943" lon="-118.41430">
+        <ele>268.17</ele>
+        <name>WMAP</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station WMAP</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.03832" lon="-115.58190">
+        <ele>-78.50</ele>
+        <name>WMDG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station WMDG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.04324" lon="-118.05926">
+        <ele>40.11</ele>
+        <name>WNRA</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station WNRA</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="34.66902" lon="-116.93167">
+        <ele>1353.03</ele>
+        <name>WOMT</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station WOMT</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="35.69557" lon="-118.24239">
+        <ele>798.37</ele>
+        <name>WORG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station WORG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.95816" lon="-118.42761">
+        <ele>7.87</ele>
+        <name>WRHS</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station WRHS</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.27884" lon="-115.57878">
+        <ele>-93.56</ele>
+        <name>WWFG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station WWFG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="33.95532" lon="-116.65386">
+        <ele>796.64</ele>
+        <name>WWMT</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station WWMT</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="32.64757" lon="-115.92224">
+        <ele>152.59</ele>
+        <name>YUHG</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station YUHG</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+  <wpt lat="32.02768" lon="-115.19920">
+        <ele>-28.43</ele>
+        <name>YUMX</name>
+        <cmt>Station details from USGS GPS database</cmt>
+        <desc>Campaign station YUMX</desc>
+        <sym>Triangle, Red</sym>
+      </wpt>
+</gpx>
